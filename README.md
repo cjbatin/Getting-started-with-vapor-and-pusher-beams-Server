@@ -1,20 +1,27 @@
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/1342803/36623515-7293b4ec-18d3-11e8-85ab-4e2f8fb38fbd.png" width="320" alt="API Template">
-    <br>
-    <br>
-    <a href="http://docs.vapor.codes/3.0/">
-        <img src="http://img.shields.io/badge/read_the-docs-2196f3.svg" alt="Documentation">
-    </a>
-    <a href="https://discord.gg/vapor">
-        <img src="https://img.shields.io/discord/431917998102675485.svg" alt="Team Chat">
-    </a>
-    <a href="LICENSE">
-        <img src="http://img.shields.io/badge/license-MIT-brightgreen.svg" alt="MIT License">
-    </a>
-    <a href="https://circleci.com/gh/vapor/api-template">
-        <img src="https://circleci.com/gh/vapor/api-template.svg?style=shield" alt="Continuous Integration">
-    </a>
-    <a href="https://swift.org">
-        <img src="http://img.shields.io/badge/swift-4.1-brightgreen.svg" alt="Swift 4.1">
-    </a>
-</p>
+# Getting-started-with-vapor-and-pusher-beams-Server
+
+An example project that accompanies my tutorial on Getting Started With Vapor and Pusher Beams.
+
+https://pusher.com/tutorials/getting-started-vapor-part-one
+
+
+### Getting Started
+
+Clone or download the repo onto your machine and open it using the command: 
+
+`$ swift build`
+
+`$ vapor xcode -y`
+
+### Prerequisites
+
+Xcode 10+
+Swift 4.2+
+
+### Built with
+
+Vapor 3.0
+Swift Package Manager
+Acknowledgments
+
+Thanks to the Vapor project
