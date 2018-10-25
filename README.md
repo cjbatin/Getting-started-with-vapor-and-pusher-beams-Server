@@ -15,8 +15,8 @@ Clone or download the repo onto your machine and open it using the command:
 
 ### Prerequisites
 
-Xcode 10+
-Swift 4.2+
+* Xcode 10+
+* Swift 4.2+
 
 ### Built with
 
