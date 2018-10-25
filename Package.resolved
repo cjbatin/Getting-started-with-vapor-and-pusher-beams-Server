@@ -74,6 +74,15 @@
         }
       },
       {
+        "package": "PushNotifications",
+        "repositoryURL": "git@github.com:pusher/push-notifications-server-swift.git",
+        "state": {
+          "branch": "master",
+          "revision": "77f1fc3677ea7c833b1c6aee20ed1d47888b08c1",
+          "version": null
+        }
+      },
+      {
         "package": "Routing",
         "repositoryURL": "https://github.com/vapor/routing.git",
         "state": {
