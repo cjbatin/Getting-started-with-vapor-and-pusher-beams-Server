@@ -1,8 +1,8 @@
-# Getting-started-with-vapor-and-pusher-beams-Server
+# Getting started with vapor and pusher-beams-Server
 
 An example project that accompanies my tutorial on Getting Started With Vapor and Pusher Beams.
 
-https://pusher.com/tutorials/getting-started-vapor-part-one
+https://pusher.com/tutorials/vapor-push-notifications
 
 
 ### Getting Started
